@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+}
+
+.Input-label {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.ErrorMessage {
+  color: red;
+}
